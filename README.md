@@ -48,7 +48,7 @@ pip install -r requirements.txt
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/fletchat.git
+git clone https://github.com/DanielMaffi/FletChat.git
 ```
 
 2. Acesse a pasta do projeto:
